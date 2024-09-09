@@ -1,0 +1,7 @@
+python-whois
+dnspython
+requests
+shodan
+ssl
+socket
+
