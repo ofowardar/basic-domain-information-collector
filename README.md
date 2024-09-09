@@ -16,3 +16,5 @@ Contact Me !
 
 linkedIn: ofowardar
 Instagram: ofowardar
+
+When you clone this repo first execute "install_requirements.py" file !!
